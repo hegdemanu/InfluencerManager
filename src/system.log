@@ -1,0 +1,10 @@
+2025-04-25 23:06:39 [INFO] Log file created
+2025-04-25 23:06:39 [INFO] User data file not found. Creating new file on next save.
+2025-04-25 23:06:39 [INFO] Campaign data file not found. Creating new file on next save.
+2025-04-25 23:06:40 [INFO] User data file not found. Creating new file on next save.
+2025-04-25 23:06:40 [INFO] Campaign data file not found. Creating new file on next save.
+2025-04-25 23:06:49 [INFO] User data file not found. Creating new file on next save.
+2025-04-25 23:06:49 [INFO] Campaign data file not found. Creating new file on next save.
+2025-04-25 23:09:27 [ERROR] Error saving user data: com.influencerManager.model.Influencer$SocialMediaProfile
+2025-04-25 23:10:33 [ERROR] Error saving user data: com.influencerManager.model.Influencer$SocialMediaProfile
+2025-04-25 23:11:05 [ERROR] Error saving user data: com.influencerManager.model.Influencer$SocialMediaProfile
