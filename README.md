@@ -52,9 +52,10 @@ The application follows object-oriented programming principles and is built usin
 - File I/O operations
 - Multithreading
 - Collections Framework
-```
+
 ## Project Structure
 ---------------------
+```
 InfluencerManager/
 ├─ src/
 │  └─ com/
